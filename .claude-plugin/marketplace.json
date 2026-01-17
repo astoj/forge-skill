@@ -19,7 +19,7 @@
       },
       "homepage": "https://github.com/astoj/forge-skill",
       "tags": ["sdlc", "product-development", "automation", "taskmaster", "compound-engineering"],
-      "source": "."
+      "source": "./plugins/forge"
     }
   ]
 }
