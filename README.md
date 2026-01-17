@@ -34,7 +34,7 @@ Forge is a Claude Code skill that orchestrates:
 
 ```bash
 # Add the marketplace
-/plugin marketplace add YOUR_GITHUB_USERNAME/forge-skill
+/plugin marketplace add astoj/forge-skill
 
 # Install the plugin
 /plugin install forge
@@ -45,7 +45,7 @@ Forge is a Claude Code skill that orchestrates:
 Clone to your Claude Code skills directory:
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/forge-skill ~/.claude/skills/forge
+git clone https://github.com/astoj/forge-skill ~/.claude/skills/forge
 ```
 
 ## Requirements

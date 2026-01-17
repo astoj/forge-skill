@@ -2,11 +2,11 @@
   "name": "forge",
   "version": "1.0.0",
   "description": "End-to-end product development from idea to production. Orchestrates Taskmaster MCP, Compound Engineering, and Ralph Wiggum for complete SDLC automation.",
-  "author": "Your Name",
+  "author": "astoj",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/YOUR_GITHUB_USERNAME/forge-skill"
+    "url": "https://github.com/astoj/forge-skill"
   },
   "keywords": [
     "sdlc",
