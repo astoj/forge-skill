@@ -2,18 +2,25 @@
   "name": "forge-marketplace",
   "version": "1.0.0",
   "description": "Forge skill for end-to-end product development",
+  "owner": {
+    "name": "astoj",
+    "url": "https://github.com/astoj"
+  },
   "plugins": [
     {
       "name": "forge",
       "version": "1.0.0",
       "description": "End-to-end product development from idea to production. Orchestrates Taskmaster MCP, Compound Engineering, and Ralph Wiggum for complete SDLC automation.",
-      "path": ".",
-      "skills": [
-        {
-          "name": "forge",
-          "path": "SKILL.md"
+      "source": {
+        "type": "local",
+        "path": "."
+      },
+      "skills": {
+        "forge": {
+          "path": "SKILL.md",
+          "description": "End-to-end product development skill"
         }
-      ]
+      }
     }
   ]
 }
