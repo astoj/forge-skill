@@ -53,8 +53,8 @@ git clone https://github.com/astoj/forge-skill ~/.claude/skills/forge
 This skill requires these plugins to be installed:
 
 - [Compound Engineering](https://github.com/EveryInc/compound-engineering-plugin)
-- [Ralph Wiggum](https://github.com/...) (Ralph loop plugin)
-- [Taskmaster MCP](https://github.com/...) (Task management)
+- [Ralph Wiggum](https://github.com/anthropics/claude-code/tree/main/plugins/ralph-wiggum) (Ralph loop plugin)
+- [Taskmaster MCP](https://github.com/eyaltoledano/claude-task-master) (Task management)
 
 ## Commands
 
